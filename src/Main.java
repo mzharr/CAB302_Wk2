@@ -1,4 +1,7 @@
 public class Main {
+
+    // Test 2
+
     // Static list of users, acting as a database
     private static ArrayList<User> users = new ArrayList<>();
 
